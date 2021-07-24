@@ -2,5 +2,6 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 Utiliza la flecha hacia la izquierda para volver!
